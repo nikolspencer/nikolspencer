@@ -3,7 +3,7 @@ title: This Place Needs A Name
 email: nikolspencer@gmail.com
 description: Front end development, design and random musings
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://nikolspencer.github.io" # the base hostname & protocol for your site
+url: "http://nikolspencer.github.io/" # the base hostname & protocol for your site
 twitter_username: nikolspencer
 github_username:  nikolspencer
 paginate: 5
