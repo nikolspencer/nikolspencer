@@ -2,10 +2,20 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
-##Hello world
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+##Hello.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I’m a ___, ___, a ___ designer from Chicago who enjoys ___ and ___.
+
+This is my personal website and portfolio. My mistakes made, designer faux paus and little triumphs.
+
+Checkout the Github repository to report a bug or contribute.
+
+Thanks to the following:
+
+BASSCSS
+Jekyll
+Refills
+Type Scale
