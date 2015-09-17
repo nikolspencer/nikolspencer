@@ -8,7 +8,7 @@ published: true
 
 
 I’m Nikki.<br>
-Front Dnd Designer, Mixed Media Artist, Creative and perpetual student living the dream in sweet, sweet Chicago. Pisces. Big fan of truth and authenticity. Big fan.
+Front End Designer, Mixed Media Artist, Creative and perpetual student living the dream in sweet, sweet Chicago. Pisces. Big fan of truth and authenticity. Big fan.
 
 This is my personal website and portfolio. My mistakes made, designer faux paus and little triumphs.
 

@@ -2,10 +2,12 @@
 layout: post
 title:  "Hello World"
 date:   2015-08-12
-categories: jekyll update
+summary: Check out my sweet post. 
+categories:
+
 ---
 
-## This is my first post.
+Here is my first post.
 It’s not incredibly inspiring, but at least it’s not filled with Hipster Lorem…
 
 This is a space I intend to fill with my thoughts, inspiration, mistakes and other random minutia as I continue to learn front end web development and tame my creative beast.
