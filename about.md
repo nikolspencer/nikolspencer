@@ -4,34 +4,33 @@ title: Hello.
 permalink: /about/
 published: true
 ---
-<img class="col one" src="/img/nikki_pic.jpg">
+<div class="col three">
+<img class="profile" src="/img/me.jpg">
 
 
-I’m Nikki.<br>
-Front End Designer, Mixed Media Artist, Creative and perpetual student living the dream in sweet, sweet Chicago. Pisces. Big fan of truth and authenticity. Big fan.
-
+<p>I’m Nikki.<br>
+Bosslady, Front End Designer, Mixed Media Artist and perpetual student living the dream in sweet, sweet Chicago. Mother to 3. Pisces. Oversharer. Big fan of truth and authenticity. Big fan.
+<br><br>
 This is my personal website and portfolio. My mistakes made, designer faux paus and little triumphs.
-
+<br><br>
 Checkout my <a href="https://github.com/nikolspencer/nikolspencer.github.io">Github repository</a> to report a bug or share an idea.
+<br>
+<br>
+This site was built with:
 
-<!--- Thanks to the following:
-
-/BASSCSS
-Jekyll
-Refills
-Type Scale
--->
-
-
-<br/>
-<br/>
-<span class="contacticon center">
+<ul>
+    <li>/BASSCSS</li>
+    <li>Jekyll</li>
+</ul>
+</p>
+</div>
+<div class="col three contacticon center">
 	<a href="mailto:nikolspencer@gmail.com"><i class="fa fa-envelope"></i></a>
 	<a href="https://github.com/nikolspencer" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com/nikolspencer" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="http://instagram.com/nikolspencer" target="_blank"><i class="fa fa-instagram"></i></a>
 	<a href="https://twitter.com/nikolspencer" target="_blank"><i class="fa fa-twitter-square"></i></a>
-</span>
+</div>
 
 <div class="col three caption">
 	You can even add a little note about which of these is the best way to reach you.

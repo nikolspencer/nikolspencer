@@ -1,4 +1,5 @@
-# Portfolio Awesomeness (a WIP)
+# Hello World *devlog (a WIP...)
+##Portfolio Awesomeness
 
 This is my working portfolio and blog. 
 
@@ -10,4 +11,5 @@ This is my working portfolio and blog.
 
 -	[Jekyll](http://jekyllrb.com)
 -	[Formspree](http://formspree.io)
+-   [BASSCSS] (http://jxnblk.github.io/basscss)
 

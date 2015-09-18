@@ -3,15 +3,31 @@
   <channel>
     <title>NikolSpencer</title>
     <description>Front end development, design and random musings</description>
-    <link>nikolspencer.com/</link>
-    <atom:link href="nikolspencer.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Sep 2015 10:31:29 -0500</pubDate>
-    <lastBuildDate>Thu, 17 Sep 2015 10:31:29 -0500</lastBuildDate>
+    <link>http://nikolspencer.com/</link>
+    <atom:link href="http://nikolspencer.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 18 Sep 2015 11:59:02 -0500</pubDate>
+    <lastBuildDate>Fri, 18 Sep 2015 11:59:02 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
+        <title>draft_measurement</title>
+        <description>&lt;p&gt;For reals. &lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;px-em-rem-vh-vw&quot;&gt;px. em. rem. vh. vw.&lt;/h3&gt;
+
+&lt;p&gt;Why? Differences. Best practices.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 15 Sep 2015 00:00:00 -0500</pubDate>
+        <link>http://nikolspencer.com/2015/09/15/meaurements/</link>
+        <guid isPermaLink="true">http://nikolspencer.com/2015/09/15/meaurements/</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Hello World</title>
-        <description>&lt;p&gt;Here is my first post.
+        <description>&lt;p&gt;Here is my sweet first post.
 It’s not incredibly inspiring, but at least it’s not filled with Hipster Lorem…&lt;/p&gt;
 
 &lt;p&gt;This is a space I intend to fill with my thoughts, inspiration, mistakes and other random minutia as I continue to learn front end web development and tame my creative beast.&lt;/p&gt;
@@ -19,8 +35,8 @@ It’s not incredibly inspiring, but at least it’s not filled with Hipster Lor
 &lt;p&gt;This website is in a constant state of change. It is a reflection to my commitment for technical self-reliance. Thank you for following along and pointing out my code mistakes. I’m sure there will be many.&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 Aug 2015 00:00:00 -0500</pubDate>
-        <link>nikolspencer.com/2015/08/12/hello-world/</link>
-        <guid isPermaLink="true">nikolspencer.com/2015/08/12/hello-world/</guid>
+        <link>http://nikolspencer.com/2015/08/12/hello-world/</link>
+        <guid isPermaLink="true">http://nikolspencer.com/2015/08/12/hello-world/</guid>
         
         
       </item>

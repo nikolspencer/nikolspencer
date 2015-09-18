@@ -7,7 +7,6 @@ baseurl: ""
 url: "http://nikolspencer.com"
 date_format: "%B %-d, %Y"
 
-
 # Build settings
 markdown: kramdown
 highlighter: pygments

@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "Hello World"
-date:   2015-08-12
-summary: Check out my sweet post. 
+date:   2015-08-12 
 categories:
 
 ---
 
-Here is my first post.
+Here is my sweet first post.
 It’s not incredibly inspiring, but at least it’s not filled with Hipster Lorem…
 
 This is a space I intend to fill with my thoughts, inspiration, mistakes and other random minutia as I continue to learn front end web development and tame my creative beast.

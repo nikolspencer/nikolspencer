@@ -11,6 +11,11 @@ $bold-font-weight: bold !default;
 $heading-font-family: 'Copse', serif !default;
 $heading-font-weight: 700 !default;
 $heading-line-height: 1.25 !default;
+
+$special-font-family: 'Vast Shadow', cursive !default;
+$special-font-weight: 400;
+$special-font-size: 4rem;
+
 $horizontal-spacing-unit: 50px;
 $vertical-spacing-unit: 40px;
 $nav-height: 56px;
@@ -18,30 +23,31 @@ $monospace-font-family: 'Cutive Mono', monospace !default;
 $spacing-unit: 30px;
 
 $h1: 2.998rem !default;
-$h2: 1.5rem !default;
+$h2: 2rem !default;
 $h3: 1.25rem !default;
 $h4: 1rem !default;
-$h5: .875rem !default;
+$h5: 1rem !default;
 $h6: .75rem !default;
 $abbr-border-bottom: 1px black dotted;
 $small-font-size: .75rem !default;
+$large-font-size: 4rem !default;
 
 // Page width
 $measure-width: 42rem !default;
 
 // Viewport widths
-$viewport-small: 600px;
-$viewport-medium: 600px;
-$viewport-large: 1000px;
+$medium: 600px;
+$large: 1000px;
 
 // Colors
 $background-color: none;
-$blue: #0076df !default;
+$salmon: #ff6868 !default;
+$blue: #2698BA !default;
 $red: #f95020 !default;
-$green: #00cf26 !default;
+$green: #B7D12A !default;
 $yellow: #efcc00 !default;
-$orange: #ffcc22 !default;
-$purple: #f92080 !default;
+$orange: #F29105 !default;
+$purple: #B509AC !default;
 $dark-blue: #00369f !default;
 $dark-green: #00ab37 !default;
 $dark-green: #009f06 !default;
@@ -71,15 +77,15 @@ $space-3: 2rem !default;
 $space-4: 4rem !default;
 
 // Buttons
-$button-font-size: inherit !default;
+$button-font-size: 1.3rem !default;
 $button-font-weight: normal !default;
 $button-line-height: 1.125rem !default;
 $button-padding-y: .5rem !default;
-$button-padding-x: 1rem !default;
+$button-padding-x: $space-2 !default;
 $button-font-family: $heading-font-family;
 
 // Forms
-$form-field-font-size: 1rem !default;
+$form-field-font-size: $space-2 !default;
 $form-field-height: 2.25rem !default;
 $form-field-padding-y: .5rem !default;
 $form-field-padding-x: .5rem !default;
@@ -90,7 +96,7 @@ $border-width: 1px !default;
 $border-radius: 3px !default;
 
 // Forms
-$form-field-font-size: 1rem;
+$form-field-font-size: $space-2;
 $form-field-height: 2.25rem;
 $form-field-padding-y: .5rem;
 $form-field-padding-x: .5rem;
@@ -117,7 +123,7 @@ $hljs-change: $dark-blue;
 $hljs-chunk: $light-gray;
 
 // Footer
-$footer-border-top: thin solid #f3f3f3;
+$footer-border-top: thin solid $lighter-gray;
 $footer-padding: $space-3;
 $footer-color: #7a7a7a;
 $footer-bg-color: #fafafa;

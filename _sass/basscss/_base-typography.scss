@@ -1,5 +1,4 @@
 @import 'variables';
-    
 /* Basscss Utility Typography */
 
 body {
@@ -11,7 +10,6 @@ body {
 h1,
 h2,
 h3,
-h4,
 h5,
 h6 {
     font-family: $heading-font-family;
@@ -21,11 +19,17 @@ h6 {
     margin-bottom: .5em;
 }
 
+h4 {
+    font-family: $special-font-family;
+    font-size: $special-font-size;
+    font-weight: $special-font-weight;
+}
+
 p,
 dl,
 ol,
 ul {
-    font-size: $h4;
+    font-size: $h5;
     margin-bottom: $space-2;
     margin-top: 0;
 }
@@ -51,7 +55,6 @@ pre {
 hr {
     margin-bottom: $space-3;
     margin-top: $space-3;
-
 }
 
 blockquote {

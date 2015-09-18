@@ -1,0 +1,27 @@
+.button-salmon {
+    color: white;
+    background-color: $salmon;
+    border-radius: $border-radius;
+    transition-duration: .1s;
+    transition-timing-function: ease-out;
+    transition-property: box-shadow, background-color;
+}
+
+.button-salmon:hover {
+    opacity: .875;
+}
+
+.button-salmon:active,
+.button-salmon.is-active {
+    box-shadow: inset 0 0 0 32px rgba(#000, .125), inset 0 2px 3px 0 rgba(#000, .25);
+}
+
+.button-salmon:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(white, .5), 0 0 1px 4px rgba($salmon, .5);
+}
+
+.button-salmon:disabled,
+.button-salmon.is-disabled {
+    opacity: .5;
+}
